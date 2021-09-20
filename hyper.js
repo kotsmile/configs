@@ -147,7 +147,8 @@ module.exports = {
         "hypercwd",
         "hyper-active-tab",
         "hyperline",
-        "hyperyellow"
+        "hyperyellow",
+        "hyper-sync-settings"
     ],
     // in development, you can create a directory under
     // `~/.hyper_plugins/local/` and include it here
